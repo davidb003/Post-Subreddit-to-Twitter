@@ -29,4 +29,4 @@ pip3 install praw==6.5.1
 
 # Support
 I'm not planning to spend time on this code anymore, however you can create issues and answer them.
-Feel free to update the code if you want! Just create an issue and paste your code. Credits will be added.
+Feel free to update the code if you want! Just create a pull request against the DEV branch
